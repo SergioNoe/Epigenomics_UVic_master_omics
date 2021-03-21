@@ -4,5 +4,5 @@ Repository of the exercices from the epigenomics lessons of the master in omics 
 ## Contains
 
 * Docker exercice
-* 4. EN‐TEx ATAC‐seq data: downstream analyses of https://github.com/bborsari/epigenomics_uvic
+* 4 EN‐TEx ATAC‐seq data: downstream analyses of https://github.com/bborsari/epigenomics_uvic
 
