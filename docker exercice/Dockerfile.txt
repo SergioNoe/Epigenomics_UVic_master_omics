@@ -1,0 +1,24 @@
+# Start from debian linux image (DockerHub)
+FROM python:3
+
+# Add custom label
+LABEL maintainer "Sergio Noé <sergionoe0@gmail.com>" \
+      version "0.1" \
+      description "Sequence class checker with python"
+
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir argparse 
+
+CMD [ "python", "./scripts/seqClass.py" ]
+
+# Make the folder '/scripts' in the container
+RUN mkdir /scripts
+
+# Copy 'scripts/script.R' to the folder '/scripts' in the container
+ADD scripts/seqClass.py /scripts
+
+# Give execution permissions to script.R
+RUN chmod +x /scripts/seqClass.py
+
+# Add /scripts folder to the PATH environment variable
+ENV PATH="$PATH:/scripts" 
