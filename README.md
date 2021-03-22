@@ -10,4 +10,4 @@ Repository of the exercices from the epigenomics lessons of the master in omics 
   - Found it at [2. EnTEx ATACseq exercise](https://github.com/SergioNoe/Epigenomics_UVic_master_omics/wiki/2.-EnTEx-ATACseq-exercise)
 
 - 5 Distal regulatory activity of https://github.com/bborsari/epigenomics_uvic
-  - Found it at [2. EnTEx ATACseq exercise](https://github.com/SergioNoe/Epigenomics_UVic_master_omics/wiki/2.-EnTEx-ATACseq-exercise)
+  - Found it at [3. Distal regulatory activity exercise](https://github.com/SergioNoe/Epigenomics_UVic_master_omics/wiki/3.-Distal-regulatory-activity-exercise)
