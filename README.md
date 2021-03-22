@@ -8,3 +8,6 @@ Repository of the exercices from the epigenomics lessons of the master in omics 
 
 - 4 EN‐TEx ATAC‐seq data: downstream analyses of https://github.com/bborsari/epigenomics_uvic
   - Found it at [2. EnTEx ATACseq exercise](https://github.com/SergioNoe/Epigenomics_UVic_master_omics/wiki/2.-EnTEx-ATACseq-exercise)
+
+- 5 Distal regulatory activity of https://github.com/bborsari/epigenomics_uvic
+  - Found it at [2. EnTEx ATACseq exercise](https://github.com/SergioNoe/Epigenomics_UVic_master_omics/wiki/2.-EnTEx-ATACseq-exercise)
